@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test40-title"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test40-title"
+  },
+  "course_title": "test 40 tileor",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test40-title"
+  },
+  "learning_resource_types": [],
+  "site_uid": "004e7612-5365-4fe1-bc66-2413cd77c201",
+  "site_short_id": "test40"
+}
